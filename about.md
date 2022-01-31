@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, this is Rebecca Wei. I'm a senior @NYU majoring in Computer Science, minoring in Maths. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like going to the club and hanging out with my friends during free time. Let's be friends!
 
