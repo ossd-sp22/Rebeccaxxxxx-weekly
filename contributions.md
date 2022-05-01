@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Mar 7   | https://github.com/ossd-sp22/ChloeQian12-weekly/pull/2    | blog    |   I improved spelling and grammar    |
-| Mar 7   | https://www.openstreetmap.org/changeset/118214982    |  OpenStreet Map feature   |   Update information on Bobst   |
-| Mar 7   | https://www.openstreetmap.org/changeset/118215101    |  OpenStreet Map feature   |   Add information on 176 Bleecker   |
+| Mar 7   | https://github.com/ossd-sp22/ChloeQian12-weekly/pull/2    | blog                 |  I improved spelling and grammar  |
+| Mar 7   | https://www.openstreetmap.org/changeset/118214982    |  OpenStreet Map feature   |  Update information on Bobst      |
+| Mar 7   | https://www.openstreetmap.org/changeset/118215101    |  OpenStreet Map feature   |  Add information on 176 Bleecker  |
+| Apr 30  | https://github.com/ossd-sp22/block-off/pull/7        |  Browser Add-on           |  Add a link for the popup button  |
